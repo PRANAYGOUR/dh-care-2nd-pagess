@@ -1,0 +1,29 @@
+
+
+
+.header{
+    position:relative; padding-bottom: 250px;
+   bottom: 900px;
+}
+
+.item{
+    position:relative;  padding-bottom: 250px;
+    bottom: 1300px;  left: 500px;
+}
+ 
+.middle{
+    position:relative;  padding-bottom: 250px;
+    bottom: 1100px;  left: 200px;
+}
+
+.item3{
+    position:relative;  padding-bottom: 250px;
+    bottom: 1200px;  left: 1200px;
+}
+
+.grid{
+    padding-top: 10px;
+    padding-left: 350px;
+}
+
+
